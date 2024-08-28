@@ -1,0 +1,58 @@
+article{
+    margin-bottom: 60px;
+}
+.carousel{
+    background-color: #fceae8;
+    border-radius: 20px;
+    padding-top: 5px;
+}
+button{
+    padding: 5px 15px;
+    border-radius: 10px;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: white;
+    border: none;
+}
+.price{
+    color: #FF136F;
+    margin-bottom: 10px;
+}
+.categories img{
+    width: 100px;
+}
+.cat1, .cat2, .cat3{
+    padding: 10px;
+    border-radius: 10px;
+}
+.cat1{
+    background-color: #FF136F;
+}
+.cat2{
+    background-color: bisque;
+}
+.cat3{
+    background-color: chocolate;
+}
+.shoe1, .shoe2, .shoe3{
+    border: none;
+    box-shadow: 5px 5px 50px lightgray;
+}
+.card-footer{
+    border: none;
+    background-color: white;
+}
+.bag1, .bag2, .bag3{
+    border: none;
+    box-shadow: 5px 5px 50px lightgray;
+
+}
+.final-section{
+    background-color: #fceae8;
+    height: 300px;
+}
+.submit-button{
+    margin-top: 10px;
+}
+footer{
+    text-align: center;
+}
